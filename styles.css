@@ -4,12 +4,21 @@ section {
     width: 100%;
     flex-direction: column;
     justify-content: center;
-    align-content: center;
+    align-items: center;
 }
 
 button {
-    width: 4vw;
-    height: 1vw;
+    width: 10vw;
+    height: 3vw;
+    border: 1px solid black;
+    border-radius: 10%;
+    position: absolute;
+}
+button:hover, button:active {
+    transition: 0.3s;
+    transform: scale(1.25);
+    border: 1px solid #0F21F4;
+
 }
 
 img {
