@@ -5,7 +5,8 @@ section {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-family: 'Helevetica Neue';
+    font-family: 'Helevetica';
+    background-image: url(./assets/original.jpeg);
 }
 
 button {
@@ -24,8 +25,8 @@ button:hover, button:active {
 }
 
 img {
-    height: 80%;
-    width: 80%;
+    height: 70%;
+    width: 85%;
 }
 
 .name {
