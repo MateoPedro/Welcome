@@ -13,6 +13,10 @@ section {
     font-family: 'Helevetica';
 }
 
+
+
+
+
 button {
     width: 10vw;
     height: 3vw;
@@ -36,10 +40,13 @@ img {
 .name {
     font-size: 60px;
     border-bottom: 1px solid black;
+    font-family: 'Helevetica';
+    margin-bottom: 0px;
 }
 
 .desc {
     font-size: larger;
+    font-family: 'Helevetica';
 }
 
 .buttons {
