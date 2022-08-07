@@ -1,3 +1,8 @@
+body {
+    background-image: url(./assets/original.jpeg);
+}
+
+
 section {
     display: flex;
     height: 100%;
@@ -6,7 +11,6 @@ section {
     justify-content: center;
     align-items: center;
     font-family: 'Helevetica';
-    background-image: url(./assets/original.jpeg);
 }
 
 button {
