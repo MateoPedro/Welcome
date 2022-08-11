@@ -111,6 +111,7 @@ h1 {
         width: 18vw;
         height: 6vw;
         font-size: 3vw;
+        border: 1px solid black;
     }
     .buttons {
         margin-top: 10vw;
